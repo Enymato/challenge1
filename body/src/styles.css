@@ -1,0 +1,12 @@
+h1 {
+  color: white;
+  background-color: black;
+  padding: 30px;
+}
+.first {
+  margin: 50px 0px;
+  text-align: center;
+}
+#search-input {
+  padding-right: 200px;
+}
